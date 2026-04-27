@@ -1,2 +1,2 @@
 Some cuda programs for my own reference.
-2d array sums, 
+Minimum finding, 2d array sums, and a ray tracer.
